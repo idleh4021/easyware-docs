@@ -9,6 +9,8 @@
 * [전반적인 시스템 흐름](getting-started/process-flow.md)
 * [화면구성](getting-started/common-usage.md)
 * [계정과 회사구조 이해하기](getting-started/undefined.md)
+* [대시보드](getting-started/dashboard.md)
+* [퀵스캔](getting-started/quick-scan.md)
 
 ## 입고 <a href="#inbound" id="inbound"></a>
 
