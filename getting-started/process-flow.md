@@ -19,7 +19,7 @@ EasyWare가 제공하는 핵심 기능을 한눈에 정리했습니다. \
 | [plan.md](../plan.md "mention")                                         | 나갈 물건의 예정 내용을 등록           | 변화 없음      |
 | [picking.md](../picking.md "mention")                                   | 여러 출고계획의 품목을 한 번에 모아서 꺼내기  | 변화 없음      |
 | [pre-outbound.md](../pre-outbound.md "mention")                         | 로케이션에서 물건을 꺼내 출고 대기 장소로 이동 | 로케이션 → 출고존 |
-| [outbound-1.md](../outbound-1.md "mention") | 출고 대기 중인 물건을 싣고 실제로 내보냄    | 재고 차감      |
+| [출고](https://app.gitbook.com/s/Pd5zp2Co7sL6fXg6Xfh6/outbound "mention") | 출고 대기 중인 물건을 싣고 실제로 내보냄    | 재고 차감      |
 
 가입고와 가출고는 한 번에 다 처리하지 않고 나눠서(분할) 등록할 수도 있습니다. 가출고는 출고계획 또는 피킹을 통해 등록할 수 있습니다.
 
