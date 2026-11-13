@@ -21,7 +21,7 @@
 ***
 
 * [출고계획](plan.md)
-* [피킹](picking.md)
+* [피킹정보](picking.md)
 * [가출고](pre-outbound.md)
 * [출고](outbound-1.md)
 
