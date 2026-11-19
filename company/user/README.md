@@ -10,7 +10,7 @@
 사용자 관리 화면은 관리자만 수정할 수 있습니다. 관리자가 아닌 사용자에게는 _"조회 전용 · 변경은 관리자만 가능합니다"_ 가 표시되고, **승인 대기**·**퇴사처리**·**복직처리** 버튼이 보이지 않으며 **저장**이 비활성화됩니다.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/usermng-list.jpg" alt="사용자관리 화면 (검색·상태·조회, 상태·아이디·이름·권한·부서·이메일 인증·연락처·비고·가입일 칸)"><figcaption></figcaption></figure>
 
 ***
 
@@ -184,6 +184,8 @@
 2. 확인 창에서 **보내기**를 누릅니다.
 
 > 비밀번호 재설정 메일을 보낼까요? 홍길동(hong) 사용자의 인증된 이메일로 재설정 안내를 보냅니다. 사용자가 새 비밀번호를 설정하기 전까지 기존 비밀번호는 그대로 사용할 수 있어요.
+
+<figure><img src="../../.gitbook/assets/usermng-reset.jpg" alt="'비밀번호 재설정 메일을 보낼까요?' 확인 창 (취소·보내기 버튼)"><figcaption></figcaption></figure>
 
 3. _"비밀번호 재설정 메일을 보냈어요."_ 가 표시되면 완료입니다.
 4. 직원은 메일의 링크(30분 동안 유효)를 눌러 새 비밀번호를 설정합니다.

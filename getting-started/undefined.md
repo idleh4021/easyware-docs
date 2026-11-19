@@ -40,7 +40,7 @@ EasyWare를 처음 사용할 때 알아두면 좋은 **계정, 회사, 권한의
 
 ### 2. 회원가입
 
-<figure><img src="../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/signup-form.png" alt="회원가입 화면 (기업 정보, 아이디·이름·비밀번호, 필수 이메일과 인증 메일 안내, 자동 가입 방지 확인, 약관 동의·회원 가입 버튼)"><figcaption></figcaption></figure>
 
 #### 2.1 기업 정보 확인
 
@@ -58,7 +58,7 @@ EasyWare를 처음 사용할 때 알아두면 좋은 **계정, 회사, 권한의
 
 **신규 회사 등록**을 누르면 회사 정보를 입력하는 팝업창이 열립니다.
 
-<figure><img src="../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/company-create.png" alt="신규 회사 등록 팝업창 (사업자등록증 안내 문구, 사업자번호·회사명·기업코드·대표자명·개업일자 필수, 주소, 자동 등록 방지 확인)"><figcaption></figcaption></figure>
 
 | 항목    |  필수 | 설명                                              |
 | ----- | :-: | ----------------------------------------------- |
@@ -154,6 +154,10 @@ EasyWare를 처음 사용할 때 알아두면 좋은 **계정, 회사, 권한의
 
 **인증하지 않고 로그인하면** 업무 화면 대신 **"이메일 인증이 필요해요"** 안내가 표시됩니다.
 
+<figure><img src="../.gitbook/assets/email-verify-gate.jpg" alt="'이메일 인증이 필요해요' 안내 화면 (등록된 이메일이 없을 때: 이메일 등록·로그아웃 버튼)"><figcaption></figcaption></figure>
+
+등록된 이메일이 없으면 **이메일 등록**과 **로그아웃** 버튼만 표시됩니다. 이메일이 있으면 아래 버튼이 표시됩니다.
+
 | 버튼              | 설명                                                                 |
 | --------------- | ------------------------------------------------------------------ |
 | **인증 완료했어요**    | 메일의 링크로 인증한 뒤 누르면 업무 화면으로 들어갑니다. 아직이면 _"아직 인증이 완료되지 않았어요."_ 안내가 나옵니다. |
@@ -233,7 +237,7 @@ EasyWare를 처음 사용할 때 알아두면 좋은 **계정, 회사, 권한의
 
 화면 오른쪽 위 **내 이름(프로필) > 사용자 정보**에서 다음을 할 수 있습니다.
 
-<figure><img src="../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/myinfo.jpg" alt="사용자 정보 팝업창 (계정 정보, 이메일 등록 버튼, 비밀번호 변경 버튼, 소속 회사 목록)"><figcaption></figcaption></figure>
 
 * 이름·연락처 수정 (소속된 **모든 회사에 똑같이** 적용)
 * 이메일 등록·변경 (인증 메일의 링크를 눌러야 반영)
@@ -248,11 +252,15 @@ EasyWare를 처음 사용할 때 알아두면 좋은 **계정, 회사, 권한의
 
 로그인 화면의 비밀번호 입력칸 오른쪽 위 **비밀번호 찾기**를 누릅니다.
 
+<figure><img src="../.gitbook/assets/pw-forgot.jpg" alt="비밀번호 찾기 화면 (아이디 입력, 재설정 안내 받기 버튼, 로그인 화면으로)"><figcaption></figcaption></figure>
+
 1. **아이디**를 입력하고 **재설정 안내 받기**를 누릅니다.
 2. _"안내를 보냈어요"_ 화면이 나오면 메일함에서 **\[EasyWare] 비밀번호 재설정 안내** 메일을 엽니다.
 3. 메일의 링크를 누르면 **새 비밀번호 설정** 화면이 열립니다.
 4. **새 비밀번호**와 **새 비밀번호 확인**을 입력하고 **비밀번호 변경**을 누릅니다.
 5. _"비밀번호를 변경했어요. 새 비밀번호로 로그인해주세요."_ 가 나오면 새 비밀번호로 로그인합니다.
+
+<figure><img src="../.gitbook/assets/pw-reset.jpg" alt="새 비밀번호 설정 화면 (새 비밀번호·새 비밀번호 확인, 비밀번호 규칙 안내, 비밀번호 변경 버튼)"><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 * 재설정 안내는 **이메일 인증을 마친 계정**에만 보내집니다. 이메일 인증을 하지 않았다면 메일이 오지 않으니 회사 관리자나 [시스템 문의](../support/system-inquiry.md)로 연락해 주세요.
