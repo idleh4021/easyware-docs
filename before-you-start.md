@@ -2,6 +2,8 @@
 
 EasyWare를 처음 도입하는 단계라면 화면 사용법보다 먼저 아래 내용을 읽어 주세요.
 
+<figure><img src=".gitbook/assets/before-start-il.png" alt="창고 작업자가 선반의 물건 바코드를 스캔하면 그 기록이 사무실 PC 화면으로 함께 전달되는 모습을 보여주는 그림"><figcaption></figcaption></figure>
+
 ***
 
 1. **WMS(창고관리시스템)는 재고를 정확하게 관리하고, 문제가 생겼을 때 언제·누가·무엇을 했는지 빠르게 추적하기 위해 사용합니다.** \
