@@ -27,6 +27,8 @@ EasyWare는 창고에서 일어나는 **입고, 출고, 재고 관리**를 하�
 
 ### 이렇게 읽어 보세요
 
+시스템을 처음 도입하는 단계라면 [before-you-start.md](before-you-start.md "mention")를 먼저 읽어 보세요.
+
 1. **처음 사용하신다면** [시스템 훑어보기](https://app.gitbook.com/s/Pd5zp2Co7sL6fXg6Xfh6/getting-started "mention")의 [process-flow.md](getting-started/process-flow.md "mention")부터 읽어 보세요. 입고에서 출고까지 이어지는 큰 흐름을 그림으로 먼저 파악할 수 있습니다.
 2. **특정 화면의 사용법이 궁금하다면** 목차에서 해당 메뉴를 찾아보세요. 사이드바 메뉴 구성과 같은 순서로 정리되어 있습니다.
 
