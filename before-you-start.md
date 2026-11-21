@@ -13,8 +13,10 @@ EasyWare를 처음 도입하는 단계라면 화면 사용법보다 먼저 아�
 4. **재고 조회, 작업 지시, 이력 확인 같은 편리함은 데이터가 쌓인 뒤에 따라오는 결과입니다.** \
    처음 한두 달은 번거롭게 느껴질 수 있지만, 기록이 쌓일수록 시스템이 일을 덜어주기 시작합니다.
 
-<figure><img src=".gitbook/assets/before-start-il.png" alt="창고 작업자가 선반의 물건 바코드를 스캔하면 그 기록이 사무실 PC 화면으로 함께 전달되는 모습을 보여주는 그림"><figcaption></figcaption></figure>
-
 {% hint style="success" %}
 **물건이 움직일 때 데이터도 함께 움직여야 합니다.**
 {% endhint %}
+
+<figure><img src=".gitbook/assets/before-start-il.png" alt="창고 작업자가 선반의 물건 바코드를 스캔하면 그 기록이 사무실 PC 화면으로 함께 전달되는 모습을 보여주는 그림"><figcaption></figcaption></figure>
+
+
