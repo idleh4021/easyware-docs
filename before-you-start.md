@@ -16,3 +16,7 @@ EasyWare를 처음 도입하는 단계라면 화면 사용법보다 먼저 아�
 {% hint style="success" %}
 **물건이 움직일 때 데이터도 함께 움직여야 합니다.**
 {% endhint %}
+
+<figure><img src=".gitbook/assets/before-start-il.png" alt="창고 작업자가 선반의 물건 바코드를 스캔하면 그 기록이 사무실 PC 화면으로 함께 전달되는 모습을 보여주는 그림"><figcaption></figcaption></figure>
+
+
