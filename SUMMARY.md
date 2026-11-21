@@ -3,6 +3,7 @@
 ## EasyWare 소개 <a href="#intro" id="intro"></a>
 
 * [환영합니다](README.md)
+* [시스템을 처음 도입하시는 분들께](before-you-start.md)
 
 ## 시스템 훑어보기 <a href="#getting-started" id="getting-started"></a>
 
