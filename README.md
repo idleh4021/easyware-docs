@@ -1,4 +1,4 @@
-<sub>v0.3.1</sub>
+<sub>v0.4.0</sub>
 ## EasyWare에 오신 것을 환영합니다. 
 
 
